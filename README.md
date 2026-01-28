@@ -50,12 +50,13 @@ We derived six key features to capture student risk patterns:
 - **At-Risk Students:** ~33% of students flagged as at risk.
 - **Key Insights:**
   - Students with chronic absences and prior failures are most likely to be at risk.
-  - Family support and study habits significantly influence performance.
+  - Has failed before and grade trend significantly influence performance.
 
 **Example Plots:**
 
 **At-Risk Students Distribution**
 ![At-Risk Distribution](Model%20Performance%20Comparison.png)
+
 
 **Feature Importance Comparison**
 ![Feature Importance](Feature%20Importance%20Comparison.png)
