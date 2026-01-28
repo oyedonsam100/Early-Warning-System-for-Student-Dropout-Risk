@@ -55,10 +55,10 @@ We derived six key features to capture student risk patterns:
 **Example Plots:**
 
 **At-Risk Students Distribution**
-![At-Risk Distribution](Model Performance Comparison.png)
+![At-Risk Distribution](Model%20Performance%20Comparison.png)
 
 **Feature Importance Comparison**
-![Feature Importance](Feature Importance Comparison.png)
+![Feature Importance](Feature%20Importance%20Comparison.png)
 
 ---
 
